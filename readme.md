@@ -1,4 +1,4 @@
-# Algortimo para convertir numeros 
+# Algortimo para convertir números a romanos 
 
 El algoritmo siguiente funciona para convertir números enteros a romanos. 
 
